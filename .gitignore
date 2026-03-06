@@ -1,0 +1,18 @@
+# Rojo / Roblox
+*.rbxl
+*.rbxlx
+output/
+
+# Rojo CLI (다운로드 후 tools/rojo/ 에 설치됨)
+tools/
+
+# Wally 패키지 (클론 후 wally install 로 재설치)
+Packages/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace

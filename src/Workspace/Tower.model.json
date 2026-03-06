@@ -1,0 +1,101 @@
+{
+  "ClassName": "Model",
+  "Name": "Tower",
+  "Children": [
+    {
+      "ClassName": "Part",
+      "Name": "Platform1",
+      "Properties": {
+        "Size": [28, 1.5, 28],
+        "Position": [0, 5, 0],
+        "Anchored": true,
+        "Material": "Metal",
+        "Color": [0.15, 0.15, 0.2]
+      },
+      "NeonBlue1": {
+        "ClassName": "PointLight",
+        "Properties": {
+          "Color": [0.2, 0.6, 1],
+          "Brightness": 0.8,
+          "Range": 25
+        }
+      }
+    },
+    {
+      "ClassName": "Part",
+      "Name": "Platform2",
+      "Properties": {
+        "Size": [24, 1.5, 24],
+        "Position": [0, 14, 0],
+        "Anchored": true,
+        "Material": "Metal",
+        "Color": [0.15, 0.15, 0.2]
+      },
+      "NeonPink1": {
+        "ClassName": "PointLight",
+        "Properties": {
+          "Color": [1, 0.2, 0.6],
+          "Brightness": 0.6,
+          "Range": 20
+        }
+      }
+    },
+    {
+      "ClassName": "Part",
+      "Name": "Platform3",
+      "Properties": {
+        "Size": [20, 1.5, 20],
+        "Position": [0, 23, 0],
+        "Anchored": true,
+        "Material": "Metal",
+        "Color": [0.15, 0.15, 0.2]
+      },
+      "NeonBlue2": {
+        "ClassName": "PointLight",
+        "Properties": {
+          "Color": [0.2, 0.6, 1],
+          "Brightness": 0.6,
+          "Range": 18
+        }
+      }
+    },
+    {
+      "ClassName": "Part",
+      "Name": "Platform4",
+      "Properties": {
+        "Size": [18, 1.5, 18],
+        "Position": [0, 32, 0],
+        "Anchored": true,
+        "Material": "Metal",
+        "Color": [0.15, 0.15, 0.2]
+      },
+      "NeonPink2": {
+        "ClassName": "PointLight",
+        "Properties": {
+          "Color": [1, 0.2, 0.6],
+          "Brightness": 0.6,
+          "Range": 16
+        }
+      }
+    },
+    {
+      "ClassName": "Part",
+      "Name": "Platform5",
+      "Properties": {
+        "Size": [14, 1.5, 14],
+        "Position": [0, 41, 0],
+        "Anchored": true,
+        "Material": "Metal",
+        "Color": [0.15, 0.15, 0.2]
+      },
+      "NeonTop": {
+        "ClassName": "PointLight",
+        "Properties": {
+          "Color": [0.5, 0.3, 1],
+          "Brightness": 1,
+          "Range": 20
+        }
+      }
+    }
+  ]
+}

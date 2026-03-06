@@ -1,0 +1,10 @@
+{
+  "ClassName": "Part",
+  "Name": "Ground",
+  "Properties": {
+    "Size": [256, 1, 256],
+    "Position": [0, -0.5, 0],
+    "Anchored": true,
+    "Material": "Concrete"
+  }
+}

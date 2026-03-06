@@ -1,0 +1,10 @@
+{
+  "ClassName": "SpawnLocation",
+  "Name": "SpawnLocation",
+  "Properties": {
+    "Size": [12, 1, 12],
+    "Position": [0, 5.5, 0],
+    "Anchored": true,
+    "Neutral": true
+  }
+}
